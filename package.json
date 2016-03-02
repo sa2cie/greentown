@@ -1,20 +1,21 @@
 {
-    "title": "greentown",
-    "name": "greentown",
-    "description": "Greentown Theme for Brackets. The theme like a Duo Tone.",
-    "version": "1.1.0",
-    "author": "vvaka",
-    "homepage": "https://github.com/vvaka1122",
-    "repository": {
-        "type": "git",
-        "url": "git@github.com:vvaka1122/greentown.git"
-    },
-    "license": "MIT",
-    "engines": {
-        "brackets": ">=0.42.0"
-    },
-    "theme": {
-        "file": "greentown.less",
-        "dark": true
-    }
+	"title": "Greentown",
+	"name": "greentown",
+	"description": "Greentown Theme for Brackets. The theme like a Duo Tone.",
+	"version": "1.1.1",
+	"author": "vvaka",
+	"homepage": "https://github.com/vvaka1122/greentown",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:vvaka1122/greentown.git"
+	},
+	"license": "MIT",
+	"engines": {
+		"brackets": ">=1.0.0"
+	},
+	"theme": {
+		"file": "greentown.less",
+		"dark": true,
+		"addModeClass": true
+	}
 }
